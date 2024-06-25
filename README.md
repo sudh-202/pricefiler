@@ -87,7 +87,7 @@ npm run dev
 
 # 🔗 Links
 
-[Deploy]: [https://caniuse.com/#feat=custom-elementsv1](https://pricefiler.vercel.app/)
+[Deploy](https://pricefiler.vercel.app/)
 
 # 🚀 Screenshots
 ![pricefilter2](https://github.com/sudh-202/pricefiler/assets/87563365/1f5a3d35-75c6-4597-9f91-5e167cd0d989)
