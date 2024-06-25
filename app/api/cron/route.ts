@@ -49,7 +49,7 @@ export async function GET(request: Request) {
           product
         );
 
-        // ======================== 2 CHECK EACH PRODUCT'S STATUS & SEND EMAIL ACCORDINGLY
+        // ======================== 2 CHECK EACH PRODUCT'S STATUS & SEND EMAIL ACCORDINGLY --new upadated
         const emailNotifType = getEmailNotifType(
           scrapedProduct,
           currentProduct
